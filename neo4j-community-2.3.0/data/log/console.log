@@ -1,0 +1,8 @@
+16:21:20.467 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2015-10-25 16:21:20.731-0700 INFO  No SSL certificate found, generating a self-signed certificate..
+2015-10-25 16:21:25.310-0700 INFO  Successfully started database
+2015-10-25 16:21:25.355-0700 INFO  Starting HTTP on port 7474 (4 threads available)
+2015-10-25 16:21:25.599-0700 INFO  Enabling HTTPS on port 7473
+2015-10-25 16:21:25.752-0700 INFO  Mounting static content at /webadmin
+2015-10-25 16:21:25.907-0700 INFO  Mounting static content at /browser
+2015-10-25 16:21:27.988-0700 INFO  Remote interface ready and available at http://localhost:7474/
