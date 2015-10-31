@@ -1,8 +1,24 @@
-16:21:20.467 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
-2015-10-25 16:21:20.731-0700 INFO  No SSL certificate found, generating a self-signed certificate..
-2015-10-25 16:21:25.310-0700 INFO  Successfully started database
-2015-10-25 16:21:25.355-0700 INFO  Starting HTTP on port 7474 (4 threads available)
-2015-10-25 16:21:25.599-0700 INFO  Enabling HTTPS on port 7473
-2015-10-25 16:21:25.752-0700 INFO  Mounting static content at /webadmin
-2015-10-25 16:21:25.907-0700 INFO  Mounting static content at /browser
-2015-10-25 16:21:27.988-0700 INFO  Remote interface ready and available at http://localhost:7474/
+22:02:44.923 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2015-10-25 22:02:45.047-0700 INFO  No SSL certificate found, generating a self-signed certificate..
+2015-10-25 22:02:48.547-0700 INFO  Successfully started database
+2015-10-25 22:02:48.575-0700 INFO  Starting HTTP on port 7474 (4 threads available)
+2015-10-25 22:02:48.752-0700 INFO  Enabling HTTPS on port 7473
+2015-10-25 22:02:48.840-0700 INFO  Mounting static content at /webadmin
+2015-10-25 22:02:48.886-0700 INFO  Mounting static content at /browser
+2015-10-25 22:02:50.465-0700 INFO  Remote interface ready and available at http://localhost:7474/
+2015-10-25 22:02:52.813-0700 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
+2015-10-29 16:47:12.769-0700 INFO  Neo4j Server shutdown initiated by request
+2015-10-29 16:47:12.834-0700 INFO  Successfully shutdown Neo4j Server
+2015-10-29 16:47:12.923-0700 INFO  Successfully stopped database
+2015-10-29 16:47:12.923-0700 INFO  Successfully shutdown database
+16:47:16.603 [main] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2015-10-29 16:47:21.050-0700 INFO  Successfully started database
+2015-10-29 16:47:21.084-0700 INFO  Starting HTTP on port 7474 (4 threads available)
+2015-10-29 16:47:21.403-0700 INFO  Enabling HTTPS on port 7473
+2015-10-29 16:47:21.564-0700 INFO  Mounting static content at /webadmin
+2015-10-29 16:47:21.642-0700 INFO  Mounting static content at /browser
+2015-10-29 16:47:23.780-0700 INFO  Remote interface ready and available at http://localhost:7474/
+2015-10-29 16:47:32.825-0700 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
+2015-10-29 16:47:35.797-0700 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
+2015-10-29 16:47:38.131-0700 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
+2015-10-29 16:47:43.587-0700 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
