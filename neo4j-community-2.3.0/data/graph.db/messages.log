@@ -746,3 +746,58 @@ Storage files: (filename : modification date - size)
 2015-10-31 05:43:33.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2924ms.
 2015-10-31 05:54:26.111+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 292ms.
 2015-10-31 06:42:55.089+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2185419ms.
+2015-10-31 19:20:29.020+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 37749433ms.
+2015-10-31 21:33:55.104+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 5304315ms.
+2015-10-31 21:53:13.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1095992ms.
+2015-10-31 21:59:30.064+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 342147ms.
+2015-11-01 15:38:58.095+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10801241ms.
+2015-11-01 20:06:41.706+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 16030505ms.
+2015-11-01 20:55:08.065+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1334227ms.
+2015-11-01 22:31:20.103+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 256560ms.
+2015-11-01 23:11:07.068+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 84412ms.
+2015-11-01 23:45:50.075+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 276328ms.
+2015-11-02 00:18:36.647+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 313ms.
+2015-11-02 02:57:39.085+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 2046880ms.
+2015-11-02 03:25:40.009+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 388ms.
+2015-11-02 05:21:13.052+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4020042ms.
+2015-11-02 08:16:12.004+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 61050ms.
+2015-11-02 08:35:00.285+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 549ms.
+2015-11-02 13:45:30.498+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10798747ms.
+2015-11-02 18:36:39.687+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 17437456ms.
+2015-11-02 18:59:55.455+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1358537ms.
+2015-11-02 19:07:55.081+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 431249ms.
+2015-11-02 19:23:17.100+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 858056ms.
+2015-11-02 20:41:34.048+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 4135393ms.
+2015-11-03 00:03:02.014+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 9447066ms.
+2015-11-03 00:29:04.986+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 831ms.
+2015-11-03 02:52:55.105+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 523197ms.
+2015-11-03 03:40:06.044+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1695276ms.
+2015-11-03 03:59:42.066+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 274459ms.
+2015-11-03 04:11:12.522+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 571ms.
+2015-11-03 06:12:42.053+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1139641ms.
+2015-11-03 06:13:00.004+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 11742ms.
+2015-11-03 07:49:10.035+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 78477ms.
+2015-11-03 07:57:35.009+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 492026ms.
+2015-11-03 08:20:45.943+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 884ms.
+2015-11-03 13:06:27.011+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10799369ms.
+2015-11-03 21:58:47.358+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 31924747ms.
+2015-11-03 23:40:17.491+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 950845ms.
+2015-11-04 00:09:51.411+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1360ms.
+2015-11-04 03:48:29.107+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 465522ms.
+2015-11-04 04:04:14.101+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 786709ms.
+2015-11-04 05:01:37.040+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 674445ms.
+2015-11-04 05:50:33.091+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 384ms.
+2015-11-04 06:46:56.090+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 924750ms.
+2015-11-04 07:23:04.162+0000 INFO  [o.n.k.i.f.GraphDatabaseFacade] Shutdown started
+2015-11-04 07:23:04.165+0000 INFO  [o.n.k.i.f.CommunityFacadeFactory] Database is now unavailable
+2015-11-04 07:23:04.177+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [31]:  Starting check pointing...
+2015-11-04 07:23:04.177+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [31]:  Starting store flush...
+2015-11-04 07:23:04.180+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [31]:  Store flush completed
+2015-11-04 07:23:04.180+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [31]:  Starting appending check point entry into the tx log...
+2015-11-04 07:23:04.182+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [31]:  Appending check point entry into the tx log completed
+2015-11-04 07:23:04.182+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by database shutdown [31]:  Check pointing completed
+2015-11-04 07:23:04.182+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2015-11-04 07:23:04.183+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2015-11-04 07:23:04.209+0000 INFO  [o.n.k.NeoStoreDataSource] NeoStores closed
+2015-11-04 07:23:04.210+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics START ---
+2015-11-04 07:23:04.210+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STOPPING diagnostics END ---

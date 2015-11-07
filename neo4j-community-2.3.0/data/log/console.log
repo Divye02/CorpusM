@@ -22,3 +22,7 @@
 2015-10-29 16:47:35.797-0700 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
 2015-10-29 16:47:38.131-0700 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
 2015-10-29 16:47:43.587-0700 WARN  Failed authentication attempt for 'neo4j' from 127.0.0.1
+2015-11-03 23:23:04.083-0800 INFO  Neo4j Server shutdown initiated by request
+2015-11-03 23:23:04.162-0800 INFO  Successfully shutdown Neo4j Server
+2015-11-03 23:23:04.218-0800 INFO  Successfully stopped database
+2015-11-03 23:23:04.218-0800 INFO  Successfully shutdown database
