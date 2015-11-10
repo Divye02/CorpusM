@@ -312,3 +312,62 @@ Storage files: (filename : modification date - size)
 2015-11-10 06:11:52.814+0000 INFO  [o.n.k.i.DiagnosticsManager] --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
 2015-11-10 06:11:54.042+0000 INFO  [o.n.k.i.DiagnosticsManager] --- SERVER STARTED START ---
 2015-11-10 06:11:55.879+0000 INFO  [o.n.k.i.DiagnosticsManager] --- SERVER STARTED END ---
+2015-11-10 06:20:42.645+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [4]:  Starting check pointing...
+2015-11-10 06:20:42.646+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [4]:  Starting store flush...
+2015-11-10 06:20:42.653+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 4 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a].
+2015-11-10 06:20:42.655+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 4 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a].
+2015-11-10 06:20:42.658+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [4]:  Store flush completed
+2015-11-10 06:20:42.659+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [4]:  Starting appending check point entry into the tx log...
+2015-11-10 06:20:42.659+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [4]:  Appending check point entry into the tx log completed
+2015-11-10 06:20:42.659+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [4]:  Check pointing completed
+2015-11-10 06:20:42.659+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2015-11-10 06:20:42.659+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2015-11-10 09:40:26.160+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [8]:  Starting check pointing...
+2015-11-10 09:40:26.161+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [8]:  Starting store flush...
+2015-11-10 09:40:26.164+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 8 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b].
+2015-11-10 09:40:26.166+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 8 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b].
+2015-11-10 09:40:26.170+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [8]:  Store flush completed
+2015-11-10 09:40:26.170+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [8]:  Starting appending check point entry into the tx log...
+2015-11-10 09:40:26.171+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [8]:  Appending check point entry into the tx log completed
+2015-11-10 09:40:26.171+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [8]:  Check pointing completed
+2015-11-10 09:40:26.171+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2015-11-10 09:40:26.171+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2015-11-10 09:45:26.264+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [10]:  Starting check pointing...
+2015-11-10 09:45:26.265+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [10]:  Starting store flush...
+2015-11-10 09:45:26.268+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 10 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a].
+2015-11-10 09:45:26.269+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 10 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a].
+2015-11-10 09:45:26.271+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [10]:  Store flush completed
+2015-11-10 09:45:26.271+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [10]:  Starting appending check point entry into the tx log...
+2015-11-10 09:45:26.272+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [10]:  Appending check point entry into the tx log completed
+2015-11-10 09:45:26.272+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [10]:  Check pointing completed
+2015-11-10 09:45:26.272+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2015-11-10 09:45:26.272+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2015-11-10 10:04:06.611+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [14]:  Starting check pointing...
+2015-11-10 10:04:06.612+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [14]:  Starting store flush...
+2015-11-10 10:04:06.615+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 14 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b].
+2015-11-10 10:04:06.616+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 14 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b].
+2015-11-10 10:04:06.645+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [14]:  Store flush completed
+2015-11-10 10:04:06.645+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [14]:  Starting appending check point entry into the tx log...
+2015-11-10 10:04:06.646+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [14]:  Appending check point entry into the tx log completed
+2015-11-10 10:04:06.646+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [14]:  Check pointing completed
+2015-11-10 10:04:06.646+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2015-11-10 10:04:06.646+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2015-11-10 10:04:25.602+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n) RETURN n LIMIT 25
+2015-11-10 10:04:25.604+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),None), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,Some(Limit(SignedDecimalIntegerLiteral(25)))))))
+2015-11-10 10:50:30.833+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(RelationshipChain(NodePattern(Some(Identifier(a)),List(),None,true),RelationshipPattern(Some(Identifier(r)),false,List(),None,None,BOTH),NodePattern(Some(Identifier(b)),List(),None,true))))),List(),Some(Where(And(In(FunctionInvocation(FunctionName(id),false,Vector(Identifier(a))),Collection(List(Parameter(  AUTOINT0)))),In(FunctionInvocation(FunctionName(id),false,Vector(Identifier(b))),Collection(List(Parameter(  AUTOINT1)))))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(r),Identifier(r)))),None,None,None))))
+2015-11-10 10:53:37.343+0000 INFO  [o.n.c.i.ServerExecutionEngine] Discarded stale query from the query cache: CYPHER 2.3 MATCH (n:Content) RETURN n LIMIT 25
+2015-11-10 10:53:37.345+0000 INFO  [o.n.c.i.CypherCompiler] Discarded stale query from the query cache: Query(None,SingleQuery(List(Match(false,Pattern(List(EveryPath(NodePattern(Some(Identifier(n)),List(),None,false)))),List(),Some(Where(HasLabels(Identifier(n),List(LabelName(Content)))))), Return(false,ReturnItems(false,List(AliasedReturnItem(Identifier(n),Identifier(n)))),None,None,Some(Limit(SignedDecimalIntegerLiteral(25)))))))
+2015-11-10 10:53:37.459+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [16]:  Starting check pointing...
+2015-11-10 10:53:37.459+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [16]:  Starting store flush...
+2015-11-10 10:53:37.462+0000 INFO  [o.n.k.i.s.c.CountsTracker] About to rotate counts store at transaction 16 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a].
+2015-11-10 10:53:37.463+0000 INFO  [o.n.k.i.s.c.CountsTracker] Successfully rotated counts store at transaction 16 to [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.b], from [/Users/Divye/Desktop/Personal/research/CorpusM/neo4j-community-2.3.0/data/graph.db/neostore.counts.db.a].
+2015-11-10 10:53:37.471+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [16]:  Store flush completed
+2015-11-10 10:53:37.471+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [16]:  Starting appending check point entry into the tx log...
+2015-11-10 10:53:37.472+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [16]:  Appending check point entry into the tx log completed
+2015-11-10 10:53:37.472+0000 INFO  [o.n.k.i.t.l.c.CheckPointerImpl] Check Pointing triggered by scheduler for time threshold [16]:  Check pointing completed
+2015-11-10 10:53:37.473+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Starting log pruning.
+2015-11-10 10:53:37.473+0000 INFO  [o.n.k.i.t.l.p.LogPruningImpl] Log Rotation [0]:  Log pruning complete.
+2015-11-10 14:25:15.007+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10798777ms.
+2015-11-10 18:00:04.952+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 12885608ms.
+2015-11-10 18:52:53.008+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 1543374ms.
+2015-11-10 21:52:14.044+0000 WARN  [o.n.k.i.c.MonitorGc] GC Monitor: Application threads blocked for 10283977ms.
